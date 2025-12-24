@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "../components/Navbar";
 
-function Orders(){
+function Orderd(){
     return(
         <div>
             <Navbar/>
@@ -10,4 +10,4 @@ function Orders(){
     )
 }
 
-export default Orders
+export default Orderd
