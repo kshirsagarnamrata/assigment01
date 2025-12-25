@@ -8,7 +8,7 @@ function Register() {
     const [email, setEmail] = useState('')
     const [password, setPassword] = useState('')
     const [mobile, setMobile] = useState('')
-    const navigate = useNavigate()
+    const navigate = useNavigate()                                         
 
     const signup = async () => {
         if (name == '')
